@@ -8,8 +8,6 @@ Your first task is to work on **CSS 3D clickable flip cards**. Here you can find
 
 We need you to read/understand the code and to use your creativity to design your **own version** of flip cards to promote/advertise a product.
 
-**Deadline: 08 April 2021.**
-
 In case of Identical submission your task will not be accepted.
 
 Should you have questions do not hesitate to write us. We are open 24/7.
